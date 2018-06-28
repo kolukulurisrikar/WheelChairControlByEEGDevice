@@ -1,2 +1,2 @@
 # Android-Studio-code
-Android Studio code Android Controlled Bluetooth Car
+Android Studio code for Wheelchair control by Brainwaves
